@@ -1,0 +1,24 @@
+[
+    {
+      "id": 1,
+      "nome": "Cuffie Bluetooth Sony ULT WEAR ",
+      "prezzo": 149.99,
+      "immagine": "https://m.media-amazon.com/images/I/31badzPpfPL.jpg",
+      "descrizione": "    "
+    },
+    {
+      "id": 2,
+      "nome": "Mouse Gaming Logitech G G203 LIGHTSYNC",
+      "prezzo": 20.89,
+      "immagine": "https://m.media-amazon.com/images/I/41zEY42v1tL.jpg",
+      "descrizione": "Mouse con sensore ad alta precisione."
+    },
+    {
+      "id": 3,
+      "nome": "Zaino Porta PC Amazon Basics",
+      "prezzo": 39.99,
+      "immagine": "https://m.media-amazon.com/images/I/41T+8CTv2gL.jpg",
+      "descrizione": "Zaino con scomparto per laptop da 15 pollici."
+    }
+  ]
+  

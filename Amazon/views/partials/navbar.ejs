@@ -1,0 +1,14 @@
+<!-- Barra di navigazione fissa in alto -->
+<nav class="navbar navbar-dark bg-dark fixed-top">
+    <div class="container">
+      <!-- Logo/Titolo con link alla home -->
+      <a class="navbar-brand" href="/">Benvenuto</a>
+      
+      <!-- Link a destra -->
+      <div class="navbar-nav">
+        <a class="nav-link" href="/carrello">
+          🛒 Carrello (<%= carrelloCount || 0 %>)
+        </a>
+      </div>
+    </div>
+  </nav>

@@ -1,0 +1,13 @@
+  /* Stile base per le card */
+  .h1 {
+    text-align: center;
+  }
+  
+  .card {
+    transition: transform 0.2s;
+    border: none;
+  }
+  
+  .card:hover {
+    transform: scale(1.02);
+  }
